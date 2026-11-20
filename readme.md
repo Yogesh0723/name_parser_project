@@ -13,3 +13,6 @@ https://career44.sapsf.com/portalcareer?career_ns=job_application&navBarLevel=JO
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTAyYjY2MGQtYTkxMS00MDA4LThlYmMtZDdjZGNmMzY4NmQ1%40thread.v2/0?context=%7b%22Tid%22%3a%229d343c00-4814-47eb-abcd-e3a0761d628b%22%2c%22Oid%22%3a%2228c881d7-ee79-42b9-a704-607b74df7879%22%7d
 
 https://career44.sapsf.com/career?company=deloittesh&loginFlowRequired=true&navBarLevel=CANDIDATE_MY_OFFERS&appId=5352691&
+
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjM5MDA5OGUtNmE3Ny00MzQ5LWEwOTUtOGNlNjQyOWM1ZDA3%40thread.v2/0?context=%7b%22Tid%22%3a%229d343c00-4814-47eb-abcd-e3a0761d628b%22%2c%22Oid%22%3a%2228c881d7-ee79-42b9-a704-607b74df7879%22%7d
